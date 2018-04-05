@@ -1,0 +1,3 @@
+# ninja log v5
+0	74	0	CMakeFiles/ndk_pic.dir/src/main/jni/com_example_utils_NativeImageUtils.c.o	f951e00467378056
+74	107	0	../obj/x86/libndk_pic.so	ddf385c096a0a0ba

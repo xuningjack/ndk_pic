@@ -1,0 +1,38 @@
+
+{
+	"buildFiles" : [ "/Users/xuning/Desktop/git/Android_ndk_pic1/app/CMakeLists.txt" ],
+	"cFileExtensions" : [ "c" ],
+	"cleanCommands" : 
+	[
+		"/Users/xuning/Desktop/Android/sdk/cmake/3.6.3155560/bin/cmake --build /Users/xuning/Desktop/git/Android_ndk_pic1/app/.externalNativeBuild/cmake/release/x86 --target clean"
+	],
+	"libraries" : 
+	{
+		"ndk_pic-Release-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "ndk_pic",
+			"buildCommand" : "/Users/xuning/Desktop/Android/sdk/cmake/3.6.3155560/bin/cmake --build /Users/xuning/Desktop/git/Android_ndk_pic1/app/.externalNativeBuild/cmake/release/x86 --target ndk_pic",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=i686-none-linux-android --gcc-toolchain=/Users/xuning/Desktop/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/xuning/Desktop/Android/sdk/ndk-bundle/sysroot -Dndk_pic_EXPORTS  -isystem /Users/xuning/Desktop/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=14 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC      -c ",
+					"src" : "/Users/xuning/Desktop/git/Android_ndk_pic1/app/src/main/jni/com_example_utils_NativeImageUtils.c",
+					"workingDirectory" : "/Users/xuning/Desktop/git/Android_ndk_pic1/app/.externalNativeBuild/cmake/release/x86"
+				}
+			],
+			"output" : "/Users/xuning/Desktop/git/Android_ndk_pic1/app/.externalNativeBuild/cmake/release/obj/x86/libndk_pic.so",
+			"toolchain" : "9540850244807043026"
+		}
+	},
+	"toolchains" : 
+	{
+		"9540850244807043026" : 
+		{
+			"cCompilerExecutable" : "/Users/xuning/Desktop/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/Users/xuning/Desktop/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+		}
+	}
+}

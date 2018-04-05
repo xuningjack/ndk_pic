@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/xuning/Desktop/+完美世界/+Android JNI NDK初级(Jack 2016.10.14)/Android_ndk_pic1/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/Users/xuning/Desktop/+完美世界/+Android JNI NDK初级(Jack 2016.10.14)/Android_ndk_pic1/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/xuning/Desktop/git/Android_ndk_pic1/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/Users/xuning/Desktop/git/Android_ndk_pic1/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    }
+]

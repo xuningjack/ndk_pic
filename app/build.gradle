@@ -1,0 +1,45 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "25.0.0"
+
+    defaultConfig {
+        applicationId "com.example.ndk_pic"
+        minSdkVersion 14
+        targetSdkVersion 23
+
+        externalNativeBuild {
+            cmake {
+                cppFlags "-std=c++11 -frtti -fexceptions"
+                arguments "-DANDROID_TOOLCHAIN=clang", "-DANDROID_STL=stlport_static"
+            }
+        }
+
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+            ndk {
+                abiFilters 'armeabi', 'mips', 'x86'
+            }
+        }
+        debug {
+            ndk {
+                abiFilters 'armeabi', 'mips', 'x86'
+            }
+        }
+    }
+
+    externalNativeBuild {
+        cmake {
+            path "CMakeLists.txt"
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:18.0.0'
+}

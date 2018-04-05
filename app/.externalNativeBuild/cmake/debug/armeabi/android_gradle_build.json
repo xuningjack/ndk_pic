@@ -1,0 +1,38 @@
+
+{
+	"buildFiles" : [ "/Users/xuning/Desktop/git/Android_ndk_pic1/app/CMakeLists.txt" ],
+	"cFileExtensions" : [ "c" ],
+	"cleanCommands" : 
+	[
+		"/Users/xuning/Desktop/Android/sdk/cmake/3.6.3155560/bin/cmake --build /Users/xuning/Desktop/git/Android_ndk_pic1/app/.externalNativeBuild/cmake/debug/armeabi --target clean"
+	],
+	"libraries" : 
+	{
+		"ndk_pic-Debug-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "ndk_pic",
+			"buildCommand" : "/Users/xuning/Desktop/Android/sdk/cmake/3.6.3155560/bin/cmake --build /Users/xuning/Desktop/git/Android_ndk_pic1/app/.externalNativeBuild/cmake/debug/armeabi --target ndk_pic",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=armv5te-none-linux-androideabi --gcc-toolchain=/Users/xuning/Desktop/Android/sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/xuning/Desktop/Android/sdk/ndk-bundle/sysroot -Dndk_pic_EXPORTS  -isystem /Users/xuning/Desktop/Android/sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=14 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv5te -mtune=xscale -msoft-float -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "/Users/xuning/Desktop/git/Android_ndk_pic1/app/src/main/jni/com_example_utils_NativeImageUtils.c",
+					"workingDirectory" : "/Users/xuning/Desktop/git/Android_ndk_pic1/app/.externalNativeBuild/cmake/debug/armeabi"
+				}
+			],
+			"output" : "/Users/xuning/Desktop/git/Android_ndk_pic1/app/.externalNativeBuild/cmake/debug/obj/armeabi/libndk_pic.so",
+			"toolchain" : "9540850244807043026"
+		}
+	},
+	"toolchains" : 
+	{
+		"9540850244807043026" : 
+		{
+			"cCompilerExecutable" : "/Users/xuning/Desktop/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/Users/xuning/Desktop/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+		}
+	}
+}

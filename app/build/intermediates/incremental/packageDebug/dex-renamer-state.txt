@@ -1,0 +1,4 @@
+#Thu Apr 05 20:29:28 CST 2018
+base.0=/Users/xuning/Desktop/git/Android_ndk_pic1/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/xuning/Desktop/git/Android_ndk_pic1/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

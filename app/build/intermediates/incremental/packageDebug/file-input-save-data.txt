@@ -1,0 +1,30 @@
+#Internal package file, do not edit.
+#Thu Apr 05 20:29:28 CST 2018
+2.base=/Users/xuning/Desktop/git/Android_ndk_pic1/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+5.file=/Users/xuning/Desktop/git/Android_ndk_pic1/app/build/intermediates/transforms/stripDebugSymbol/debug/folders/2000/1f/main/lib/mips/libndk_pic.so
+5.set=NATIVE_RESOURCE
+3.base=/Users/xuning/Desktop/git/Android_ndk_pic1/app/build/intermediates/transforms/stripDebugSymbol/debug/folders/2000/1f/main
+6.file=/Users/xuning/Desktop/git/Android_ndk_pic1/app/build/intermediates/transforms/stripDebugSymbol/debug/folders/2000/1f/main/lib/armeabi/libndk_pic.so
+2.set=DEX
+4.base=/Users/xuning/Desktop/git/Android_ndk_pic1/app/build/intermediates/res/resources-debug.ap_
+7.file=/Users/xuning/Desktop/git/Android_ndk_pic1/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+7.set=ANDROID_RESOURCE
+count=9
+0.file=/Users/xuning/Desktop/git/Android_ndk_pic1/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_main.xml
+5.base=/Users/xuning/Desktop/git/Android_ndk_pic1/app/build/intermediates/transforms/stripDebugSymbol/debug/folders/2000/1f/main
+8.file=/Users/xuning/Desktop/git/Android_ndk_pic1/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+4.set=ANDROID_RESOURCE
+6.base=/Users/xuning/Desktop/git/Android_ndk_pic1/app/build/intermediates/transforms/stripDebugSymbol/debug/folders/2000/1f/main
+1.file=/Users/xuning/Desktop/git/Android_ndk_pic1/app/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/meinv.jpg
+1.set=ANDROID_RESOURCE
+7.base=/Users/xuning/Desktop/git/Android_ndk_pic1/app/build/intermediates/res/resources-debug.ap_
+2.file=/Users/xuning/Desktop/git/Android_ndk_pic1/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+6.set=NATIVE_RESOURCE
+0.base=/Users/xuning/Desktop/git/Android_ndk_pic1/app/build/intermediates/res/resources-debug.ap_
+8.base=/Users/xuning/Desktop/git/Android_ndk_pic1/app/build/intermediates/res/resources-debug.ap_
+3.file=/Users/xuning/Desktop/git/Android_ndk_pic1/app/build/intermediates/transforms/stripDebugSymbol/debug/folders/2000/1f/main/lib/x86/libndk_pic.so
+3.set=NATIVE_RESOURCE
+1.base=/Users/xuning/Desktop/git/Android_ndk_pic1/app/build/intermediates/res/resources-debug.ap_
+4.file=/Users/xuning/Desktop/git/Android_ndk_pic1/app/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/ic_launcher.png
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

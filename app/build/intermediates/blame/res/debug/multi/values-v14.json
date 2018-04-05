@@ -1,0 +1,54 @@
+[
+    {
+        "outputFile": "/Users/xuning/Desktop/git/Android_ndk_pic1/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "/Users/xuning/Desktop/git/Android_ndk_pic1/app/src/main/res/values-v14/styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 225,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 373
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/xuning/Desktop/+完美世界/+Android JNI NDK初级(Jack 2016.10.14)/Android_ndk_pic1/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "/Users/xuning/Desktop/+完美世界/+Android JNI NDK初级(Jack 2016.10.14)/Android_ndk_pic1/app/src/main/res/values-v14/styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 225,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 373
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,3 @@
+/Users/xuning/Desktop/git/Android_ndk_pic1/app/.externalNativeBuild/cmake/release/mips/CMakeFiles/edit_cache.dir
+/Users/xuning/Desktop/git/Android_ndk_pic1/app/.externalNativeBuild/cmake/release/mips/CMakeFiles/rebuild_cache.dir
+/Users/xuning/Desktop/git/Android_ndk_pic1/app/.externalNativeBuild/cmake/release/mips/CMakeFiles/ndk_pic.dir

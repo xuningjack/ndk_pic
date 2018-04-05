@@ -1,0 +1,172 @@
+[
+    {
+        "outputFile": "/Users/xuning/Desktop/git/Android_ndk_pic1/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 44,
+                    "endOffset": 95
+                },
+                "from": {
+                    "file": "/Users/xuning/Desktop/git/Android_ndk_pic1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 44,
+                        "endOffset": 98
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endColumn": 52,
+                    "endOffset": 148
+                },
+                "from": {
+                    "file": "/Users/xuning/Desktop/git/Android_ndk_pic1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 104,
+                        "endColumn": 52,
+                        "endOffset": 152
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 153,
+                    "endLine": 10,
+                    "endColumn": 12,
+                    "endOffset": 439
+                },
+                "from": {
+                    "file": "/Users/xuning/Desktop/git/Android_ndk_pic1/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 444,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 599
+                },
+                "from": {
+                    "file": "/Users/xuning/Desktop/git/Android_ndk_pic1/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/xuning/Desktop/+完美世界/+Android JNI NDK初级(Jack 2016.10.14)/Android_ndk_pic1/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 44,
+                    "endOffset": 95
+                },
+                "from": {
+                    "file": "/Users/xuning/Desktop/+完美世界/+Android JNI NDK初级(Jack 2016.10.14)/Android_ndk_pic1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 44,
+                        "endOffset": 98
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endColumn": 52,
+                    "endOffset": 148
+                },
+                "from": {
+                    "file": "/Users/xuning/Desktop/+完美世界/+Android JNI NDK初级(Jack 2016.10.14)/Android_ndk_pic1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 104,
+                        "endColumn": 52,
+                        "endOffset": 152
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 153,
+                    "endLine": 10,
+                    "endColumn": 12,
+                    "endOffset": 439
+                },
+                "from": {
+                    "file": "/Users/xuning/Desktop/+完美世界/+Android JNI NDK初级(Jack 2016.10.14)/Android_ndk_pic1/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 444,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 599
+                },
+                "from": {
+                    "file": "/Users/xuning/Desktop/+完美世界/+Android JNI NDK初级(Jack 2016.10.14)/Android_ndk_pic1/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]

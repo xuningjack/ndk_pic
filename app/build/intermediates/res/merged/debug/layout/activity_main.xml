@@ -1,0 +1,48 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="${relativePackage}.${activityClass}" >
+
+    <TextView
+        android:id="@+id/textview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/hello_world" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true" />
+
+    <TextView
+        android:id="@+id/original"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/imageView"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="23dp"
+        android:text="原图" />
+
+    <TextView
+        android:id="@+id/java"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/original"
+        android:layout_alignBottom="@+id/original"
+        android:layout_centerHorizontal="true"
+        android:text="Java处理" />
+
+    <TextView
+        android:id="@+id/ndk"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/java"
+        android:layout_alignBottom="@+id/java"
+        android:layout_alignRight="@+id/imageView"
+        android:layout_marginRight="15dp"
+        android:text="ndk处理" />
+
+</RelativeLayout>
