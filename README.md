@@ -1,5 +1,5 @@
 # ndk_pic
-Using NDK&amp;JNI to process images.（使用NDK和JNI调整图片的亮度和对比度）
+Using NDK&amp;JNI to process images.（使用NDK和JNI调整图片的亮度和对比度，使用cmake）
 
 ![Alt text](https://github.com/xuningjack/ndk_pic/raw/master/images/1.png)   
 
