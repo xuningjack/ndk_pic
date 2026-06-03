@@ -1,6 +1,9 @@
 # ndk_pic
 Using NDK&amp;JNI to process images.（使用NDK和JNI调整图片的亮度和对比度，使用cmake）
 
+### 项目架构：
+<img src="architecture.png" alt="项目整体架构图">
+
 ![Alt text](https://github.com/xuningjack/ndk_pic/raw/master/images/1.png)   
 
 目前提供以下几种签名生成的逻辑：
